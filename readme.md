@@ -77,11 +77,13 @@ A curated list of awesome laser-cutting resources.
 ## Apps
 
 - [FlatFab] - Design and fabricate 3D objects.
+- [Living Hinge Generator] - Generate laser-cut living hinge patterns as SVG.
 - [Makercase] - Webapp for designing boxes and project cases
     for laser cutters and CNC routers.
 - [NC Viewer] - Browser based G-Code viewer and editor.
 
 [FlatFab]: http://flatfab.com
+[Living Hinge Generator]: https://thespoollist.com/tools/living-hinge
 [Makercase]: https://www.makercase.com
 [NC Viewer]: https://ncviewer.com/
 
